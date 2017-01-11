@@ -59,9 +59,9 @@ public class MyMojo extends AbstractMojo {
 
     public void execute() throws MojoExecutionException {
 
-	descriptions.add("pera zdera");
-	descriptions.add("mornar popaj");
-	descriptions.add("oliva");
+	descriptions.add("real madrid");
+	descriptions.add("barselona");
+	descriptions.add("arsenal");
 
 	File f = outputDirectory;
 
