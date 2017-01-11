@@ -26,7 +26,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import proba.proj.probniSite.*;
 
 /**
  * Goal which touches a timestamp file.
